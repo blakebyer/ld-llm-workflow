@@ -1,0 +1,120 @@
+---
+input_text: Among the clinical findings found in MPS are general manifestations,
+  such as short stature, infiltrated facies, thick eyebrows, as well as 
+  orthopedic manifestations (joint hypermobility or joint stiffness without 
+  inflammation, skeletal deformities, and multiple dysostosis), cardiac 
+  manifestations (murmur, myocardiopathy, mitral-aortic valve disease, 
+  cardiomegaly), and respiratory manifestations (hypertrophy of tonsils, 
+  adenoids, frequent respiratory infections). In other patients, there are 
+  umbilical and/or inguinal hernias, global retardation of psychomotor 
+  development, and the progressive loss of motor and intellectual skills they 
+  had already acquired in all but attenuated phenotypes and MPS IV and VI.
+raw_completion_output: |-
+  phenotypes: short stature; infiltrated facies; thick eyebrows; joint hypermobility; joint stiffness; skeletal deformities; multiple dysostosis; murmur; myocardiopathy; mitral-aortic valve disease; cardiomegaly; hypertrophy of tonsils; adenoids; frequent respiratory infections; umbilical hernias; inguinal hernias; global retardation of psychomotor development; progressive loss of motor skills; progressive loss of intellectual skills
+  label: MPS
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  phenotypes: <A semicolon-separated list of human phenotypes, including symptoms of disease. It must be semicolon-separated. Labels containing the word 'with' should be split into multiple phenotypes.>
+  label: <The label (name) of the named thing>
+
+
+  Text:
+  Among the clinical findings found in MPS are general manifestations, such as short stature, infiltrated facies, thick eyebrows, as well as orthopedic manifestations (joint hypermobility or joint stiffness without inflammation, skeletal deformities, and multiple dysostosis), cardiac manifestations (murmur, myocardiopathy, mitral-aortic valve disease, cardiomegaly), and respiratory manifestations (hypertrophy of tonsils, adenoids, frequent respiratory infections). In other patients, there are umbilical and/or inguinal hernias, global retardation of psychomotor development, and the progressive loss of motor and intellectual skills they had already acquired in all but attenuated phenotypes and MPS IV and VI.
+
+  ===
+
+extracted_object:
+  id: 3e3821d4-7841-4729-abcb-51fb190e671f
+  label: MPS
+  phenotypes:
+    - HP:0004322
+    - AUTO:infiltrated%20facies
+    - HP:0000574
+    - HP:0001382
+    - HP:0001387
+    - AUTO:skeletal%20deformities
+    - AUTO:multiple%20dysostosis
+    - HP:0030148
+    - AUTO:myocardiopathy
+    - AUTO:mitral-aortic%20valve%20disease
+    - HP:0001640
+    - AUTO:hypertrophy%20of%20tonsils
+    - AUTO:adenoids
+    - HP:0002205
+    - HP:0001537
+    - HP:0000023
+    - AUTO:global%20retardation%20of%20psychomotor%20development
+    - AUTO:progressive%20loss%20of%20motor%20skills
+    - AUTO:progressive%20loss%20of%20intellectual%20skills
+named_entities:
+  - id: HP:0004322
+    label: short stature
+    original_spans:
+      - 77:89
+  - id: AUTO:infiltrated%20facies
+    label: infiltrated facies
+    original_spans:
+      - 92:109
+  - id: HP:0000574
+    label: thick eyebrows
+    original_spans:
+      - 112:125
+  - id: HP:0001382
+    label: joint hypermobility
+    original_spans:
+      - 166:184
+  - id: HP:0001387
+    label: joint stiffness
+    original_spans:
+      - 189:203
+  - id: AUTO:skeletal%20deformities
+    label: skeletal deformities
+    original_spans:
+      - 227:246
+  - id: AUTO:multiple%20dysostosis
+    label: multiple dysostosis
+    original_spans:
+      - 253:271
+  - id: HP:0030148
+    label: murmur
+    original_spans:
+      - 299:304
+  - id: AUTO:myocardiopathy
+    label: myocardiopathy
+    original_spans:
+      - 307:320
+  - id: AUTO:mitral-aortic%20valve%20disease
+    label: mitral-aortic valve disease
+    original_spans:
+      - 323:349
+  - id: HP:0001640
+    label: cardiomegaly
+    original_spans:
+      - 352:363
+  - id: AUTO:hypertrophy%20of%20tonsils
+    label: hypertrophy of tonsils
+    original_spans:
+      - 399:420
+  - id: AUTO:adenoids
+    label: adenoids
+    original_spans:
+      - 423:430
+  - id: HP:0002205
+    label: frequent respiratory infections
+    original_spans:
+      - 433:463
+  - id: HP:0001537
+    label: umbilical hernias
+  - id: HP:0000023
+    label: inguinal hernias
+    original_spans:
+      - 513:528
+  - id: AUTO:global%20retardation%20of%20psychomotor%20development
+    label: global retardation of psychomotor development
+    original_spans:
+      - 531:575
+  - id: AUTO:progressive%20loss%20of%20motor%20skills
+    label: progressive loss of motor skills
+  - id: AUTO:progressive%20loss%20of%20intellectual%20skills
+    label: progressive loss of intellectual skills
