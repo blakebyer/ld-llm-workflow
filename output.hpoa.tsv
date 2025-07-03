@@ -1,0 +1,4912 @@
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			C	
+					PCS					I	
+					PCS		2/2			P	
+					PCS					P	
+					PCS					P	
+					TAS					P	
+					PCS					P	
+					PCS		0/2			P	
+					PCS					P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		3/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		7/8			P	
+					PCS		4/8			P	
+					PCS		5/8			C	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			C	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		8/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		5/8			P	
+					PCS		4/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		2/8			P	
+					PCS		5/8			P	
+					TAS					I	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		2/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		2/8			C	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		3/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					C	
+					PCS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					IEA					P	
+					IEA					I	
+					TAS					I	
+					PCS	HP:0003593	1/1	FEMALE		P	
+					PCS	HP:0003593	2/2			P	
+					PCS		3/3			C	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS	HP:0003593	1/2			P	
+					PCS	HP:0003593	2/2			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					C	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					M	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					C	
+					TAS					P	
+					TAS	HP:0011462	16/18			P	
+					TAS					P	
+					TAS					P	
+					PCS		2/18			P	
+					PCS		4/18			P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS	HP:0003581	18/18			P	
+					TAS					P	
+					PCS		18/18			C	
+					TAS					P	
+					PCS		18/18			P	
+					PCS					I	
+					TAS					P	
+					PCS		5/11			C	
+					PCS		7/11			P	
+					PCS		6/11			C	
+					PCS		11/11			P	
+					PCS		0/11			P	
+					PCS		0/11			P	
+					PCS					I	
+					PCS		5/11			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					TAS					P	
+					PCS		3/3			C	
+					PCS		2/3			P	
+					PCS	HP:0003577	3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/16			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/16			P	
+					TAS					P	
+					TAS					P	
+					TAS		2/16			P	
+					TAS					P	
+					TAS					P	
+					PCS		3/15			P	
+					TAS					P	
+					TAS					P	
+					PCS		10/15			P	
+					PCS		3/16			P	
+					TAS					P	
+					PCS		2/16			P	
+					TAS					P	
+					PCS		6/16			P	
+					TAS					P	
+					PCS		14/16			P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		16/16			C	
+					TAS					P	
+					PCS		7/16			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		5/15			P	
+					PCS		10/15			P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS		1/16			P	
+					PCS		5/15			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		3/16			P	
+					PCS		1/16			P	
+					TAS				HP:0012828	P	
+					TAS					P	
+					PCS		2/2			C	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					TAS		HP:0040283			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS					P	
+					PCS	HP:0011463	1/1			P	
+					PCS					P	
+					TAS					P	
+					PCS	HP:0011463	1/1			P	
+					PCS					P	
+					IEA	HP:0011463	1/1			P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					TAS					P	
+					TAS					P	
+					PCS					P	
+					PCS		1/7			P	
+					TAS					P	
+					PCS		2/7			P	
+					PCS		2/7			P	
+					PCS		7/7			P	
+					PCS		2/7			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		3/3			P	
+					PCS		6/6			P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		3/5			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		10/10			P	
+					PCS		10/10			C	
+					PCS	HP:0003577	10/10			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					PCS					P	
+					PCS					P	
+					PCS		16/16			P	
+					PCS					P	
+					PCS		11/11			C	
+					PCS		16/16			P	
+					PCS					C	
+					PCS					P	
+					PCS					I	
+					PCS					P	
+					PCS		16/16			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					I	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS		3/9			P	
+					PCS		9/9			P	
+					PCS		6/9			P	
+					PCS		1/9			P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					PCS	HP:0003593	9/9			P	
+					TAS					P	
+					PCS		2/3			P	
+					PCS					P	
+					PCS		1/3			P	
+					PCS		2/3			C	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3		HP:0012828	P	
+					PCS		1/3			P	
+					PCS		1/3			C	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		2/2			P	
+					PCS		3/3			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					I	
+					TAS					I	
+					TAS		20/20			P	
+					TAS					I	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS					P	
+					PCS					C	
+					PCS	HP:0011463				P	
+					PCS	HP:0011463				P	
+					PCS					I	
+					PCS	HP:0011462				P	
+					PCS	HP:0011462				P	
+					PCS	HP:0011463				P	
+					TAS					I	
+					TAS					P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS					P	
+					PCS		1/8			P	
+					PCS		1/6			P	
+					PCS		8/16			P	
+					PCS		4/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		8/8			C	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS					P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS					P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS					P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		8/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		8/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS					I	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		2/8			P	
+					PCS		8/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		3/8			P	
+					PCS		8/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		0/6			P	
+					PCS		1/8			P	
+					PCS		7/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		8/8			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			C	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA		HP:0040283			P	
+					IEA					P	
+					IEA					P	
+					TAS					C	
+					PCS		1/1			P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					TAS					P	
+					IEA					P	
+					PCS					I	
+					TAS					P	
+					IEA					P	
+					IEA					C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					TAS		HP:0040282			P	
+					PCS				HP:0025303	P	
+					PCS					C	
+					PCS					I	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS					P	
+					PCS		HP:0040284			P	
+					IEA					P	
+					PCS					P	
+					PCS		HP:0040284			P	
+					PCS		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					PCS					P	
+					PCS		HP:0040284			P	
+					IEA					P	
+					IEA					C	
+					PCS					P	
+					IEA					P	
+					PCS		HP:0040284			P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS		HP:0040283			P	
+					PCS		HP:0040284			P	
+					PCS		12/12			P	
+					PCS		3/3			P	
+					PCS		6/7			P	
+					PCS		2/5			P	
+					PCS		3/5			P	
+					PCS		3/3			C	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		11/12			P	
+					PCS		7/7			P	
+					PCS		2/2			P	
+					PCS		4/4			P	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		2/4			P	
+					PCS		4/4			C	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS					I	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		2/3			P	
+					PCS		3/9			P	
+					PCS		1/3			P	
+					PCS		1/6			P	
+					PCS		4/8			P	
+					PCS		2/6			P	
+					PCS		1/3			P	
+					PCS		2/6			P	
+					PCS		3/3			P	
+					PCS		9/9			P	
+					PCS		1/6			P	
+					PCS		7/9			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/6			P	
+					PCS		3/9			P	
+					PCS					C	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		1/6			P	
+					PCS		2/3			P	
+					PCS		2/6			P	
+					PCS		7/9			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		3/3			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS					I	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		4/6			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		6/9			P	
+					PCS		2/6			P	
+					PCS		1/3			P	
+					PCS		2/6			P	
+					PCS		3/3			P	
+					PCS		2/9			P	
+					PCS		2/6			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		5/9			P	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		3/9			P	
+					PCS		6/9			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		5/5			P	
+					PCS		2/5			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		4/6			P	
+					PCS		4/9			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		1/3			P	
+					PCS		1/6			C	
+					PCS		6/6			P	
+					PCS		5/6			C	
+					PCS		1/6			P	
+					PCS		6/6			P	
+					PCS		0/6			P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		2/2			C	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		2/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		2/3			C	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			C	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					IEA		HP:0040282			P	
+					TAS					P	
+					IEA					P	
+					IEA		HP:0040282			P	
+					IEA		HP:0040282			P	
+					PCS		1/1			C	
+					PCS		1/2			P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		8/8			P	
+					PCS		4/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/1			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		3/10			P	
+					PCS		3/20			P	
+					IEA					P	
+					PCS		1/20			P	
+					PCS		5/20			P	
+					PCS		5/20			P	
+					PCS		2/20			P	
+					IEA					P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		3/20			P	
+					PCS		5/20			P	
+					PCS		2/20			P	
+					PCS		3/20			P	
+					PCS		1/20			P	
+					PCS					I	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		9/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		1/20			P	
+					PCS		3/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		20/20			P	
+					PCS		1/20			P	
+					PCS		2/17			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		6/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		9/9			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		3/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		20/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		3/20			P	
+					PCS		20/20			P	
+					PCS		6/18			P	
+					PCS		8/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		6/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		11/20			P	
+					PCS		2/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		3/20			P	
+					PCS		1/20			P	
+					IEA					P	
+					PCS		2/20			P	
+					PCS		2/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		1/20			P	
+					PCS		5/20			P	
+					PCS		1/20			P	
+					PCS					P	
+					PCS		5/16			P	
+					PCS					P	
+					PCS					P	
+					PCS		8/16			P	
+					PCS					P	
+					PCS					P	
+					PCS		8/16			P	
+					PCS					I	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		1/8			P	
+					IEA					P	
+					PCS		11/18			P	
+					PCS		105/158			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/8			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/8			P	
+					PCS					P	
+					PCS		23/89			P	
+					PCS		1/8			P	
+					IEA					P	
+					PCS		1/8			P	
+					IEA					P	
+					IEA					P	
+					PCS		17/21			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		3/17			P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					PCS		1/4			P	
+					PCS		9/21			P	
+					PCS		4/4			C	
+					IEA					P	
+					PCS		13/14			P	
+					PCS					P	
+					IEA					P	
+					PCS		3/25			P	
+					PCS		4/4			P	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040283			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/8			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/8			P	
+					PCS		1/8			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		1/4			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/4			P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					PCS		HP:0040283			P	
+					PCS		56/56			P	
+					PCS		11/56			P	
+					PCS		HP:0040283			P	
+					PCS					P	
+					PCS		HP:0040283			P	
+					PCS					I	
+					PCS					P	
+					PCS		HP:0040283			P	
+					PCS					P	
+					PCS		56/56			P	
+					PCS		3/7			P	
+					PCS		3/7			P	
+					PCS		7/10			C	
+					PCS		0/10			P	
+					PCS		7/10			P	
+					PCS		5/10			P	
+					PCS		7/8			P	
+					PCS		4/7			P	
+					PCS		10/10			P	
+					PCS		0/10			P	
+					PCS					I	
+					PCS		3/10			C	
+					PCS		3/10			P	
+					PCS		5/7			P	
+					PCS		0/9			P	
+					PCS		0/10			P	
+					PCS		6/10			P	
+					PCS		5/7			P	
+					TAS					P	
+					PCS		3/3			P	
+					PCS		23/23			C	
+					PCS		3/3			P	
+					PCS	HP:0003577	23/23			P	
+					PCS		1/23			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS		26/26			P	
+					PCS		3/3			P	
+					TAS					P	
+					PCS		15/23			P	
+					PCS					I	
+					TAS					P	
+					TAS		HP:0040283			P	
+					PCS		5/23			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					I	
+					IEA					P	
+					PCS					P	
+					PCS					C	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS					P	
+					IEA					P	
+					IEA					I	
+					PCS		2/3			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		3/3			P	
+					PCS		5/8			P	
+					PCS		8/12			P	
+					PCS		2/15			P	
+					PCS		1/1			P	
+					PCS		9/11			P	
+					PCS		3/3			C	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS					P	
+					PCS		1/1			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					PCS		12/12			P	
+					PCS		9/11			P	
+					PCS		1/1			P	
+					PCS					P	
+					TAS					P	
+					TAS					P	
+					PCS		11/11			P	
+					PCS		1/3			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					PCS					P	
+					TAS					P	
+					TAS	HP:0003584				P	
+					PCS		1/1			P	
+					PCS		11/14			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		2/2			P	
+					PCS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		2/3			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					PCS					P	
+					PCS		2/3			P	
+					PCS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS					P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/4			P	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/4			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		14/14			P	
+					PCS		1/1			P	
+					PCS		3/3			C	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS		2/3			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS	HP:0034197	1/1			P	
+					TAS					P	
+					PCS		3/3			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		2/3			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					IEA					P	
+					PCS		7/7			P	
+					PCS		2/3			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					IEA					P	
+					PCS					I	
+					PCS		2/2			P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					PCS		8/8			P	
+					PCS		5/5			P	
+					IEA					P	
+					TAS					P	
+					PCS					I	
+					PCS		6/6			P	
+					PCS		6/6			P	
+					PCS		1/2			P	
+					PCS		1/2			C	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/3			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					P	
+					PCS		1/2			C	
+					TAS		HP:0040283			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					TAS		HP:0040283			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/3			P	
+					PCS					I	
+					PCS		1/2			P	
+					PCS					P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS					P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS					P	
+					PCS					C	
+					PCS					I	
+					PCS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS					I	
+					PCS					P	
+					PCS		4/6			P	
+					PCS		5/6			P	
+					PCS		5/6			P	
+					PCS		6/6			P	
+					PCS					I	
+					PCS		2/6			P	
+					PCS		5/6			P	
+					PCS		5/6			P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		1/3			P	
+					PCS		3/3			C	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/5			P	
+					PCS		6/6			P	
+					PCS		2/2			P	
+					PCS		3/5			P	
+					PCS					C	
+					PCS		3/6			P	
+					PCS		6/6			P	
+					PCS		2/2			P	
+					TAS					C	
+					PCS		2/2			P	
+					PCS		6/6			P	
+					PCS		5/6			P	
+					PCS		6/6			P	
+					PCS		4/5			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		5/6			P	
+					PCS		1/6			P	
+					PCS		2/2			C	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		4/6			P	
+					PCS		1/1			P	
+					PCS		2/6			P	
+					PCS		5/5			P	
+					PCS					I	
+					PCS		6/6			P	
+					PCS		2/2			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS				HP:0012825	P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		5/6			P	
+					IEA					P	
+					IEA					P	
+					PCS		2/6			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		2/6			P	
+					IEA					P	
+					PCS		2/6			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					IEA					P	
+					IEA					P	
+					PCS		4/6			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		3/6			P	
+					IEA					P	
+					PCS		1/6			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/6			P	
+					TAS					P	
+					PCS		3/6			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		3/6			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					PCS		2/4			C	
+					PCS		2/4			P	
+					PCS		2/4			P	
+					PCS		3/14			P	
+					PCS		4/4			C	
+					IEA		3/8			P	
+					PCS		2/4			P	
+					PCS		8/8			P	
+					PCS		2/4			C	
+					PCS		2/4			P	
+					TAS		HP:0040283			P	
+					PCS		2/4			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		2/4			P	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					PCS		4/4			P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					PCS		1/4			P	
+					PCS	HP:0003577	5/78			P	
+					PCS		16/78			P	
+					PCS		5/78			P	
+					PCS		31/78			P	
+					PCS		27/78			P	
+					PCS		8/78			P	
+					PCS		6/78			P	
+					TAS					P	
+					TAS					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		6/78			P	
+					IEA					P	
+					PCS		72/78			P	
+					IEA					P	
+					IEA					P	
+					PCS		5/78			P	
+					IEA					P	
+					TAS					P	
+					TAS		18/78			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		27/78			P	
+					IEA					P	
+					IEA					P	
+					PCS		5/78			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		16/88			P	
+					PCS		5/78			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		16/78			P	
+					IEA					P	
+					IEA					P	
+					PCS		9/78			P	
+					PCS		8/78			P	
+					IEA					P	
+					PCS		9/78			P	
+					IEA					P	
+					IEA					P	
+					PCS		30/78			P	
+					PCS		5/78			P	
+					PCS		8/78			P	
+					PCS		7/42			P	
+					IEA					P	
+					IEA					P	
+					PCS		6/78			P	
+					PCS		37/78			P	
+					IEA					P	
+					PCS		5/36			P	
+					TAS					P	
+					PCS					P	
+					IEA					P	
+					PCS		10/78			P	
+					PCS		15/78			P	
+					IEA					P	
+					PCS		9/78			P	
+					PCS		7/31			P	
+					IEA					P	
+					IEA	HP:0003577				P	
+					IEA					P	
+					IEA					P	
+					PCS		22/78			P	
+					PCS		27/78			P	
+					IEA					P	
+					IEA					P	
+					IEA		1/1			P	
+					IEA					P	
+					PCS					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS					P	
+					PCS					P	
+					IEA					C	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS					C	
+					PCS		4/18			P	
+					PCS		6/19			P	
+					PCS		1/5			P	
+					PCS	HP:0003623	8/14			P	
+					PCS		3/5			P	
+					PCS		3/13			P	
+					IEA		4/5			C	
+					PCS		1/5			P	
+					PCS		2/14			P	
+					PCS		7/15			P	
+					PCS		1/5			C	
+					PCS					P	
+					PCS		10/19			P	
+					PCS		1/14			P	
+					PCS		1/5			P	
+					PCS		5/14			P	
+					PCS		1/13			P	
+					PCS		1/5			P	
+					PCS		15/15			P	
+					PCS		1/5			P	
+					PCS					I	
+					PCS		4/14			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/13			P	
+					PCS		1/5			P	
+					TAS					C	
+					PCS		1/5			P	
+					PCS		7/8			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		6/19			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		8/13			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS	HP:0003623	4/14			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		8/14			P	
+					PCS		3/14			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		14/19			P	
+					PCS		17/17			P	
+					PCS		5/6			P	
+					PCS					C	
+					PCS	HP:0003577				P	
+					PCS		1/2			P	
+					PCS		3/5			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		8/8			P	
+					PCS		1/2			P	
+					PCS	HP:0003577				P	
+					PCS		2/3			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			C	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		11/18			P	
+					PCS		9/9			P	
+					PCS					P	
+					IEA					P	
+					IEA					C	
+					PCS					I	
+					PCS					P	
+					PCS		14/14			P	
+					PCS		0/7			P	
+					PCS		7/7			C	
+					PCS					I	
+					PCS		0/7			P	
+					PCS		0/7			P	
+					PCS		7/7			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS					P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			H	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					TAS		HP:0040283			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			C	
+					PCS		3/4			C	
+					PCS		1/4			P	
+					PCS					P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS					I	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS	HP:0003593	1/1			P	
+					PCS		1/1			C	
+					PCS					I	
+					TAS					P	
+					IEA					P	
+					PCS				HP:0012825	P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					C	
+					TAS		20/20			P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					C	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					IEA					C	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					I	
+					TAS					P	
+					PCS		7/7			C	
+					TAS					P	
+					PCS		7/7			P	
+					PCS		4/7			P	
+					PCS		7/7			P	
+					PCS		2/7			P	
+					PCS					I	
+					PCS					P	
+					TAS					P	
+					PCS		1/3	MALE		P	
+					PCS		6/7			P	
+					PCS		7/7			P	
+					PCS		1/4	FEMALE		P	
+					TAS		3/3			P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					TAS		3/3			P	
+					TAS		3/3			P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		2/2			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		1/2			P	
+					TAS					P	
+					TAS					P	
+					PCS	HP:0003577	2/2			P	
+					PCS		2/2			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS					P	
+					PCS		2/2			P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					C	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		12/12		HP:0012825	P	
+					PCS	HP:0003577	2/2		HP:0012828	P	
+					TAS					P	
+					PCS		4/6			P	
+					PCS		5/6			P	
+					PCS					I	
+					PCS		1/1			C	
+					PCS					P	
+					PCS		0/6			P	
+					PCS		6/6			P	
+					PCS		5/6			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		3/4			P	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		4/4			P	
+					PCS		3/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		3/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS					I	
+					PCS		4/16			C	
+					PCS		1/15			P	
+					PCS		7/17			P	
+					PCS		9/17			P	
+					PCS		10/16			C	
+					PCS		8/17			P	
+					PCS	HP:0003577	1/17			P	
+					PCS		1/17			P	
+					PCS		17/17			P	
+					PCS		2/16			C	
+					PCS		13/17			P	
+					PCS		3/17			P	
+					PCS		3/17			P	
+					PCS					P	
+					PCS		2/17			P	
+					PCS		5/16			P	
+					PCS					P	
+					PCS		14/17			P	
+					PCS					P	
+					PCS		2/15			P	
+					PCS		1/15			P	
+					PCS		1/17			P	
+					PCS		7/17			P	
+					PCS		7/17			P	
+					PCS	HP:0003623	4/17			P	
+					PCS		3/17			P	
+					PCS		4/17			P	
+					PCS		2/9			P	
+					PCS					I	
+					PCS		1/7			C	
+					PCS		2/7			P	
+					PCS		2/5			P	
+					PCS		2/7			P	
+					PCS		1/8			P	
+					PCS		3/7			C	
+					PCS		1/5			P	
+					PCS		1/8			P	
+					PCS		1/7			C	
+					PCS		3/3			P	
+					PCS		1/8			P	
+					PCS		2/7			P	
+					PCS		2/8			P	
+					PCS		1/7			P	
+					PCS		2/7			C	
+					PCS		1/8			P	
+					PCS		3/6			P	
+					PCS		2/7			P	
+					PCS		2/8			P	
+					PCS		1/7			P	
+					PCS		2/5			P	
+					PCS		5/7			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		2/6			P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		1/1			P	
+					PCS	HP:0011463	1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		4/4			P	
+					PCS		3/4			P	
+					PCS		4/4			P	
+					PCS		4/4			P	
+					PCS		3/4			P	
+					PCS		2/4			P	
+					PCS		4/4			P	
+					PCS		4/4			C	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS					P	
+					PCS		3/3			P	
+					PCS					I	
+					TAS	HP:0003623				P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					IEA					P	
+					PCS		1/4			C	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					IEA					P	
+					PCS		4/4			P	
+					PCS		4/4			P	
+					IEA					P	
+					PCS		4/4			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					PCS		0/4			P	
+					PCS		4/4			P	
+					IEA					P	
+					PCS		3/4			C	
+					TAS		1/9			P	
+					PCS		9/9			P	
+					PCS		1/9			P	
+					PCS		4/9			P	
+					PCS		2/4			P	
+					PCS		2/9			C	
+					PCS		3/5			P	
+					PCS		1/4			P	
+					PCS		5/9			C	
+					TAS		HP:0040283			P	
+					PCS		4/4			P	
+					PCS					I	
+					TAS					P	
+					PCS		4/9			P	
+					PCS		1/4			P	
+					PCS		2/9			C	
+					PCS					P	
+					TAS					P	
+					TAS					P	
+					IEA					C	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					IEA					C	
+					TAS					P	
+					PCS					C	
+					PCS					I	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS		0/10			P	
+					TAS				HP:0012825	P	
+					IEA					P	
+					TAS				HP:0012825	P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					TAS					P	
+					PCS					I	
+					IEA					P	
+					TAS					P	
+					PCS					P	
+					TAS					P	
+					PCS		1/4			P	
+					PCS		1/1			P	
+					PCS		1/4			P	
+					PCS		2/8			P	
+					PCS		3/3			P	
+					TAS					I	
+					TAS		1/4			P	
+					PCS		2/4			P	
+					TAS					P	
+					PCS		1/4			P	
+					PCS					I	
+					PCS		1/3			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					I	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS					C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					IEA					C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS	HP:0003623	2/2			P	
+					PCS	HP:0003623	2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS	HP:0011463	1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS	HP:0003593	2/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		48/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		49/49			P	
+					IEA					P	
+					PCS		11/49			P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					PCS		45/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		17/49			P	
+					PCS		45/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		20/20			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		36/49			P	
+					IEA					P	
+					PCS		49/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		22/49			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		34/49			P	
+					IEA					P	
+					PCS		37/49			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		7/20			P	
+					IEA					P	
+					IEA					P	
+					PCS		41/49			P	
+					IEA					P	
+					PCS		3/20			P	
+					IEA					P	
+					IEA					P	
+					PCS		21/49			P	
+					IEA					P	
+					PCS		5/20			P	
+					IEA					P	
+					PCS		18/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		51/68			P	
+					IEA					P	
+					PCS		4/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		38/49			P	
+					IEA					P	
+					PCS		43/49			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					I	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		13/13			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		3/3			C	
+					IEA					P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		4/31			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		12/12			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		1/5			P	
+					PCS		4/5			C	
+					PCS		3/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		3/5			P	
+					PCS		5/5			P	
+					PCS		1/5			P	
+					PCS		4/5			P	
+					PCS		3/5			P	
+					PCS		2/5			P	
+					PCS		3/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS					P	
+					PCS		1/5			C	
+					PCS		5/5			P	
+					PCS		4/5			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		5/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS					I	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		2/2			C	
+					PCS		2/2			P	
+					PCS					I	
+					PCS		3/9			P	
+					PCS		2/9			P	
+					PCS		1/11			P	
+					PCS		4/4			P	
+					PCS		1/9			P	
+					PCS		6/9			P	
+					PCS		3/9			P	
+					PCS		4/10			P	
+					PCS		1/11			P	
+					PCS		2/5			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		2/9			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/8			P	
+					PCS		1/11			P	
+					PCS		5/11			P	
+					PCS		1/9			P	
+					PCS		3/4			P	
+					PCS		3/3			P	
+					PCS		2/11			P	
+					PCS					I	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		4/8			P	
+					PCS		1/11			P	
+					PCS		2/9			P	
+					PCS		1/11			P	
+					PCS		2/11			P	
+					PCS		1/11			P	
+					PCS		5/10			P	
+					PCS		1/9			P	
+					PCS		1/11			P	
+					PCS		1/5			P	
+					PCS		7/8			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					PCS		2/6			P	
+					PCS		2/9			P	
+					PCS		6/9			P	
+					PCS		4/11			P	
+					PCS		1/11			P	
+					PCS		1/11			P	
+					IEA			MALE		P	
+					IEA					I	
+					IEA	HP:0003621				P	
+					PCS		8/8			P	
+					PCS		5/9			P	
+					PCS		2/2			P	
+					PCS		5/9			P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		2/2			C	
+					PCS					I	
+					PCS		1/6			P	
+					PCS		4/6			P	
+					PCS		3/6			P	
+					PCS		4/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		2/2			P	
+					PCS		6/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS					I	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		1/3			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		4/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		1/3			P	
+					PCS		3/3			C	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					TAS					P	
+					TAS					P	
+					PCS		3/3			P	
+					TAS					P	
+					PCS		2/6			P	
+					PCS		3/3			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		3/6			P	
+					TAS					P	
+					PCS	HP:0003623	6/6			P	
+					TAS		12/20			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		4/6			P	
+					TAS					P	
+					PCS	HP:0003623	6/6			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					PCS		6/6			C	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		0/4			P	
+					TAS		HP:0040283			P	
+					PCS		2/4			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					PCS		2/6			P	
+					TAS		HP:0040283			P	
+					PCS					I	
+					PCS		6/6			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		6/6			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS					I	
+					PCS		1/1			P	
+					IEA					I	
+					TAS					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS	HP:0003581	HP:0040283			P	
+					PCS					I	
+					PCS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS		29/130			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		20/127			P	
+					PCS		1/1			C	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		7/129			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/13			P	
+					TAS					P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					PCS		11/13			P	
+					TAS					P	
+					PCS					I	
+					IEA					P	
+					PCS		13/13			P	
+					TAS		20/20			P	
+					IEA					P	
+					TAS					I	
+					TAS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					PCS		1/2			P	
+					PCS					P	
+					PCS		1/2			P	
+					PCS		2/4			P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			C	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					IEA					I	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		3/6			P	
+					PCS		6/6			C	
+					PCS	HP:0030674	1/6			P	
+					PCS		3/6			P	
+					PCS		2/6			P	
+					PCS		6/6			P	
+					PCS		1/6			P	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS		6/6			P	
+					PCS		1/6			P	
+					PCS		6/6			P	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		4/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		6/6			P	
+					PCS					P	
+					PCS					P	
+					PCS		4/6			P	
+					PCS		5/6			P	
+					PCS		1/6			P	
+					PCS					P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		3/6			P	
+					PCS		6/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS		2/6			P	
+					PCS		6/6			P	
+					PCS		3/6			P	
+					PCS		3/6			P	
+					PCS					I	
+					PCS		2/6			P	
+					PCS		1/6			P	
+					PCS	HP:0003593	5/5			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS					P	
+					TAS					P	
+					PCS					P	
+					IEA					P	
+					PCS		3/3			P	
+					PCS	HP:0003621	5/5			P	
+					TAS					C	
+					IEA					P	
+					PCS					I	
+					TAS					M	
+					PCS		1/5			P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					IEA					P	
+					PCS		3/7			P	
+					PCS		7/7			C	
+					PCS					P	
+					PCS		3/7			P	
+					PCS		2/7			P	
+					PCS		2/2			P	
+					PCS				HP:0012829	P	
+					PCS		6/6			P	
+					PCS		3/4			P	
+					PCS		5/5			P	
+					PCS		4/7			P	
+					PCS		5/5			P	
+					PCS					P	
+					PCS		2/7			C	
+					PCS		3/7			C	
+					PCS					I	
+					PCS		6/6			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		2/5			C	
+					PCS		4/5			P	
+					PCS		5/5			P	
+					PCS		5/5			P	
+					PCS		5/5			P	
+					PCS		4/5			P	
+					PCS		4/5			P	
+					PCS		5/5			P	
+					PCS		0/5			P	
+					PCS					I	
+					PCS		5/5			P	
+					PCS		5/5			P	
+					PCS		3/5			C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		6/6			P	
+					TAS					C	
+					PCS		4/4			P	
+					IEA					P	
+					PCS		12/12			P	
+					PCS		14/14			P	
+					PCS		1/1			P	
+					PCS		8/8			P	
+					PCS		8/8			P	
+					PCS		3/3			P	
+					TAS					I	
+					PCS	HP:0011463	8/8			P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS	HP:0011463	8/8			P	
+					TAS					P	
+					PCS		6/6			P	
+					PCS					I	
+					TAS					P	
+					IEA					P	
+					PCS		2/2			C	
+					PCS	HP:0003577	1/1			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS	HP:0003577	1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/1			P	
+					PCS		5/5			P	
+					PCS		5/5			C	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/4			P	
+					PCS		5/5			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS					C	
+					TAS					P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1		HP:0025303	P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		3/60			P	
+					IEA					P	
+					PCS		21/38			P	
+					PCS		2/55			P	
+					PCS		26/70			P	
+					IEA					C	
+					PCS		2/55			P	
+					PCS		2/10			C	
+					PCS		2/10			C	
+					PCS		2/15			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		2/55			P	
+					PCS		1/10			C	
+					IEA					P	
+					IEA					P	
+					PCS		1/55			P	
+					PCS		2/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					IEA					P	
+					IEA					P	
+					PCS		8/9			P	
+					PCS		2/55			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS		8/10			P	
+					IEA					I	
+					IEA					P	
+					TAS				HP:0012825	P	
+					IEA					P	
+					PCS		2/55			P	
+					PCS		5/10			C	
+					IEA					P	
+					PCS		1/10			P	
+					IEA					P	
+					PCS		2/55			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS		7/10			P	
+					IEA					P	
+					PCS		6/9			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		8/9			P	
+					TAS				HP:0012825	P	
+					PCS		2/55			P	
+					PCS		12/38			P	
+					IEA					P	
+					IEA					P	
+					PCS		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		4/5			P	
+					PCS		5/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS		5/5			C	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		5/5			P	
+					PCS	HP:0011461	2/5			P	
+					PCS		1/5			P	
+					PCS		1/4			P	
+					PCS		3/5			P	
+					PCS		1/5			P	
+					PCS	HP:0003577	3/5			P	
+					PCS					I	
+					PCS	HP:0011461	5/5			P	
+					PCS	HP:0003623	3/5			P	
+					PCS		1/5			P	
+					PCS		7/7			P	
+					PCS		4/7			P	
+					IEA					P	
+					PCS		1/7			P	
+					PCS	HP:0011463				P	
+					PCS		4/7			P	
+					PCS		15/17			P	
+					PCS		7/7			C	
+					PCS	HP:0011463				P	
+					PCS		7/7			P	
+					IEA					P	
+					PCS		3/7			P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS	HP:0011463				P	
+					PCS	HP:0011463				P	
+					PCS					P	
+					TAS					P	
+					PCS		2/7			P	
+					PCS	HP:0011463				P	
+					PCS					P	
+					PCS		1/7			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		4/4			C	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		4/4			P	
+					PCS		3/4			P	
+					PCS		4/4			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		6/6			P	
+					PCS	HP:0003577	6/6			P	
+					PCS		6/6			C	
+					PCS		1/6			P	
+					PCS		5/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS					I	
+					PCS		6/6			P	
+					TAS					P	
+					TAS					I	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		2/2			C	
+					PCS		2/2			P	
+					PCS					I	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS					C	
+					PCS		1/1			P	
+					PCS	HP:0011461	9/9			P	
+					PCS		6/23			P	
+					PCS		10/10			P	
+					PCS		17/17			P	
+					PCS		2/23			P	
+					PCS		6/23			P	
+					PCS					P	
+					PCS		6/23			P	
+					PCS		23/23			P	
+					PCS					I	
+					PCS					P	
+					PCS	HP:0003577	23/23			P	
+					PCS		23/23			P	
+					PCS		23/23			P	
+					PCS		23/23			P	
+					PCS	HP:0003577	23/23			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					TAS					P	
+					IEA					C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS		1/4			P	
+					PCS		2/4			C	
+					PCS		3/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		2/4			P	
+					PCS					P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		2/4			C	
+					PCS		1/4			P	
+					PCS		3/4		HP:0012825	P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS					C	
+					PCS					I	
+					PCS		1/4			P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					C	
+					IEA					I	
+					TAS					P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					PCS		1/2			P	
+					TAS		HP:0040283			P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS					I	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS		1/1			P	
+					TAS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS					P	
+					TAS		1/1			P	
+					PCS		1/1			P	
+					TAS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS		1/1			P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					PCS					I	
+					TAS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/3			P	
+					PCS		3/3		HP:0003676	P	
+					PCS		11/13			C	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3		HP:0012829	P	
+					PCS		3/3			P	
+					PCS		2/3			C	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS	HP:0003577	3/3			P	
+					PCS	HP:0003577	2/3			P	
+					PCS					P	
+					PCS					I	
+					PCS					P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		7/14			P	
+					PCS		2/14			P	
+					PCS	HP:0003577	1/14			P	
+					PCS		1/14			P	
+					PCS		1/14			P	
+					PCS	HP:0003577	9/13			P	
+					PCS		1/14			P	
+					PCS		9/10			P	
+					PCS					I	
+					IEA					P	
+					PCS		5/5			P	
+					PCS		12/15			P	
+					TAS					P	
+					PCS					P	
+					PCS					P	
+					PCS		2/3			P	
+					IEA					P	
+					PCS		1/3			P	
+					TAS					P	
+					PCS					I	
+					TAS	HP:0003623				P	
+					IEA					P	
+					PCS		12/15			C	
+					PCS		3/5			C	
+					IEA					P	
+					PCS	HP:0003623	3/5			P	
+					PCS	HP:0003623				P	
+					PCS		5/5			C	
+					PCS		0/3			P	
+					PCS		2/2			P	
+					PCS		2/3		HP:0031796	P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		2/3			C	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS					P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS					I	
+					PCS		1/3			C	
+					PCS		3/5			C	
+					PCS		5/5			P	
+					PCS		1/5			C	
+					PCS		1/5			C	
+					PCS		5/5			P	
+					PCS					I	
+					PCS		5/5			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					IEA		HP:0040284			P	
+					TAS					P	
+					TAS					I	
+					TAS		HP:0040283			P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS		HP:0040283			P	
+					PCS		2/2			P	
+					PCS		1/1			C	
+					PCS		2/2			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		10/10			P	
+					PCS		1/1			P	
+					PCS		8/19			C	
+					PCS		26/28			P	
+					PCS		3/19			C	
+					PCS		8/19			C	
+					PCS					I	
+					PCS		16/18			P	
+					PCS					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		10/10			P	
+					PCS		5/18			P	
+					TAS					I	
+					TAS				HP:0012826	P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS	HP:0003581	2/7			P	
+					IEA					C	
+					IEA					P	
+					PCS		1/7			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS		7/7			P	
+					IEA					P	
+					PCS		7/7			P	
+					PCS					P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					C	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					IEA					P	
+					PCS		2/3			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA		1/2			C	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					TAS					P	
+					PCS		1/2			C	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		2/3			P	
+					PCS		1/1			P	
+					IEA					C	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS		1/3			C	
+					PCS		3/4			P	
+					PCS		3/4			C	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/1			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS					P	
+					PCS		1/3			P	
+					TAS					P	
+					PCS		2/3			P	
+					TAS				HP:0012825	P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					TAS					P	
+					PCS					I	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					IEA					P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		4/4			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		3/4			P	
+					IEA					P	
+					PCS		1/3			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/3			P	
+					IEA					P	
+					IEA					I	
+					PCS		2/4			C	
+					PCS		4/4			P	
+					PCS		1/4			C	
+					PCS		7/9			P	
+					PCS		1/4			P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS		4/4			P	
+					PCS		1/5			P	
+					PCS		1/4			P	
+					PCS		1/1			P	
+					PCS		1/4			C	
+					PCS		1/4			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/4			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/1			P	
+					TAS					P	
+					TAS			MALE		I	
+					TAS			FEMALE		I	
+					PCS		1/10			P	
+					PCS		2/10			P	
+					PCS		4/10			P	
+					PCS		1/10			P	
+					PCS		5/10			P	
+					PCS		2/10			P	
+					PCS		8/10			P	
+					PCS		5/10			P	
+					PCS		2/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS					P	
+					PCS		7/9			P	
+					PCS		10/10			P	
+					PCS		10/10			P	
+					PCS		2/10			P	
+					PCS		2/10			P	
+					PCS		7/10			P	
+					PCS		3/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		3/10			P	
+					PCS					I	
+					PCS		3/10			P	
+					PCS		1/10			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					I	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					PCS		9/13			P	
+					PCS		8/14			C	
+					PCS		4/4			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		9/9			P	
+					PCS		1/1			P	
+					PCS		3/9			C	
+					PCS		9/9			P	
+					PCS		0/5			P	
+					PCS		9/9			P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		4/9			P	
+					PCS		7/9			P	
+					TAS					C	
+					PCS		5/5			P	
+					PCS		1/9			P	
+					PCS		10/10			P	
+					PCS		8/14			P	
+					PCS		3/14			C	
+					TAS					C	
+					PCS		7/9			P	
+					PCS		2/5			P	
+					PCS		0/14			P	
+					TAS					P	
+					PCS		0/14			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		14/14			P	
+					TAS					P	
+					PCS		1/9			P	
+					PCS					I	
+					PCS		7/9			P	
+					IEA					C	
+					PCS		1/5			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					PCS		HP:0040280			P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS					I	
+					IEA					P	
+					PCS		2/2			P	
+					PCS					C	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		0/14			P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS					I	
+					IEA					C	
+					TAS		HP:0040283			P	
+					PCS		0/2			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		9/9			P	
+					PCS		1/2			P	
+					PCS		9/9			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		7/7			P	
+					PCS		2/2			P	
+					PCS		7/7			C	
+					PCS		7/7			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/7			P	
+					PCS		7/7			P	
+					PCS		1/2			P	
+					PCS		2/2			C	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		2/2			C	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					TAS					P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2		HP:0012829	P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		4/4			P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		1/2			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/2			P	
+					TAS					P	
+					TAS					P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		3/3			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			C	
+					PCS		3/3			P	
+					PCS		1/1			P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS					C	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		8/8			P	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		10/10			C	
+					PCS	HP:0011463	5/5			P	
+					PCS		2/2			P	
+					PCS	HP:0003593	8/8			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/7			P	
+					PCS		1/2			P	
+					PCS		2/3			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		3/3			P	
+					PCS		1/1			P	
+					PCS		2/3			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		58/58			P	
+					PCS		12/58			C	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					PCS		7/58			P	
+					IEA					P	
+					PCS		13/13			P	
+					IEA					P	
+					IEA					P	
+					PCS		58/58			P	
+					PCS		6/13			P	
+					PCS		46/58			C	
+					PCS					P	
+					IEA					P	
+					PCS		12/58			P	
+					PCS		1/58			P	
+					PCS		6/13			P	
+					IEA					P	
+					PCS		31/58			P	
+					IEA					P	
+					PCS	HP:0003581	33/35			P	
+					PCS					I	
+					PCS		33/58			P	
+					PCS		2/58			P	
+					IEA					P	
+					PCS		16/58			P	
+					PCS					P	
+					PCS		1/6			C	
+					PCS		6/6			P	
+					PCS		2/6			P	
+					PCS		5/6			C	
+					PCS		4/6			P	
+					PCS		5/6			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					IEA					P	
+					IEA					P	
+					PCS		9/28			P	
+					TAS					P	
+					PCS		2/28			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS	HP:0003581				P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		10/28			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		20/28			P	
+					IEA					P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		9/28			P	
+					PCS					P	
+					PCS					P	
+					PCS					C	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					TAS					P	
+					PCS		11/15			P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS	HP:0003577				P	
+					IEA					P	
+					TAS					P	
+					TAS					I	
+					TAS					I	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS		6/6			P	
+					PCS		4/7			C	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS		3/7			P	
+					PCS		7/7		HP:0012828	P	
+					PCS		4/7			P	
+					PCS		2/7			P	
+					PCS					P	
+					PCS		1/7			C	
+					PCS		2/7			P	
+					PCS		2/7			P	
+					PCS		4/7			P	
+					PCS		1/7			P	
+					PCS		2/7			C	
+					PCS		2/7			P	
+					PCS		1/7			P	
+					PCS					I	
+					PCS		4/7			P	
+					PCS		2/7			P	
+					PCS		1/7			P	
+					PCS		2/7			P	
+					PCS		7/7			P	
+					PCS					P	
+					PCS	HP:0003623				P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS		5/17			P	
+					PCS		6/14			P	
+					PCS					P	
+					PCS		1/14			P	
+					PCS		21/21			P	
+					PCS		17/18			C	
+					PCS		16/20			P	
+					PCS		1/14			P	
+					PCS		1/18			C	
+					PCS		21/21			P	
+					PCS		0/20			P	
+					PCS					I	
+					PCS		0/18			P	
+					PCS		15/20			P	
+					PCS		9/20			P	
+					PCS		0/18			P	
+					PCS		9/19			P	
+					PCS		1/20			P	
+					TAS				HP:0012828	P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					IEA					I	
+					TAS				HP:0012828	P	
+					IEA					P	
+					TAS					P	
+					TAS				HP:0012828	P	
+					PCS		1/5			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/7			P	
+					PCS		1/2			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		2/6			P	
+					PCS		2/6			P	
+					PCS		7/7			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/1			P	
+					PCS		4/6			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA		1/1			C	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		2/6			P	
+					PCS		1/1			H	
+					PCS		2/5			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS	HP:0003577	2/5	MALE		P	
+					PCS					I	
+					TAS					P	
+					PCS		7/7	MALE		P	
+					PCS		1/5	MALE		P	
+					TAS		20/20			P	
+					IEA					P	
+					PCS		2/5	MALE		P	
+					IEA					P	
+					PCS		2/5	MALE		P	
+					PCS		5/5	MALE		P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					I	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					I	
+					TAS					I	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040282			P	
+					TAS					P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/1			P	
+					PCS		1/3			P	
+					PCS		1/3		HP:0012825	P	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS					I	
+					PCS		2/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		2/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		3/3			C	
+					TAS					P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS	HP:0003577	3/3			P	
+					PCS	HP:0003577	3/3			P	
+					PCS		1/3			P	
+					TAS					P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS					P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			C	
+					PCS		2/2			P	
+					PCS		3/3			P	
+					PCS		1/1			C	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS	HP:0025709	1/1			P	
+					PCS	HP:0025710	1/1			P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					TAS	HP:0003577	6/6			P	
+					PCS		6/6			C	
+					TAS					P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					TAS					I	
+					PCS					P	
+					PCS		5/10			P	
+					PCS					P	
+					PCS		2/10			P	
+					PCS					P	
+					PCS					I	
+					TAS				HP:0012828	P	
+					TAS					P	
+					TAS					C	
+					TAS					P	
+					TAS					I	
+					TAS					P	
+					PCS		6/6			P	
+					PCS		6/6			P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS		6/6			P	
+					PCS					P	
+					PCS		4/6			P	
+					PCS					P	
+					PCS	HP:0011463				P	
+					PCS					P	
+					PCS					P	
+					PCS		3/6			P	
+					PCS					P	
+					PCS		4/4			P	
+					PCS		0/4			P	
+					PCS		2/2			P	
+					PCS					P	
+					PCS		6/6			P	
+					PCS		1/6			P	
+					TAS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS		1/4			P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS		6/6			P	
+					PCS					P	
+					PCS		1/6			P	
+					PCS					I	
+					PCS		3/6			P	
+					PCS		1/6			P	
+					PCS					P	
+					PCS		3/6			P	
+					PCS					P	
+					PCS					P	
+					PCS		5/5			P	
+					PCS					P	
+					PCS					P	
+					PCS		4/4			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS					P	
+					PCS					P	
+					PCS		2/3			P	
+					PCS					P	
+					PCS					P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS					P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS	HP:0003623	2/3			P	
+					PCS		2/3			P	
+					PCS		1/3			P	
+					PCS					P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS		1/3			P	
+					PCS					P	
+					PCS		2/3			P	
+					PCS					I	
+					TAS		HP:0040283			P	
+					PCS					I	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					TAS		HP:0040283			P	
+					IEA					P	
+					PCS		4/4			P	
+					PCS					P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					TAS					I	
+					PCS		1/1			P	
+					PCS					I	
+					PCS					C	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					PCS					P	
+					PCS					P	
+					PCS	HP:0011463				P	
+					PCS					P	
+					PCS	HP:0011463	10/14			P	
+					PCS					P	
+					PCS					P	
+					PCS		1/14			P	
+					PCS		2/14			P	
+					TAS					C	
+					TAS	HP:0003581				P	
+					PCS					P	
+					PCS		14/14			P	
+					PCS					P	
+					TAS		HP:0040283			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					PCS		2/14			P	
+					PCS		1/14			P	
+					IEA	HP:0011463				P	
+					PCS		14/14			P	
+					PCS					P	
+					PCS					P	
+					PCS					P	
+					PCS		12/14			P	
+					PCS		1/14			P	
+					PCS					P	
+					IEA					P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					PCS					C	
+					PCS		4/4			P	
+					PCS		1/4			P	
+					PCS		3/6			P	
+					PCS		1/2			P	
+					PCS		5/6			P	
+					PCS		4/4			P	
+					PCS		4/4			C	
+					PCS		2/4			P	
+					PCS		3/4			P	
+					PCS		1/2			C	
+					PCS		2/2			C	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		4/4			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		5/6			P	
+					PCS		1/4			P	
+					PCS		2/2			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		0/3			P	
+					PCS		3/3			C	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		0/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS		1/3			P	
+					PCS					P	
+					PCS		26/26			P	
+					TAS		4/15			P	
+					PCS		4/15			P	
+					PCS					I	
+					PCS		22/31			P	
+					PCS					I	
+					PCS		1/5			P	
+					PCS		4/5			P	
+					PCS		1/5			P	
+					PCS		3/5			P	
+					PCS		4/5			P	
+					PCS		3/5			P	
+					PCS		6/6			P	
+					PCS		1/1			P	
+					PCS		1/5			P	
+					PCS		1/5			P	
+					PCS					P	
+					PCS		2/5			P	
+					PCS		1/1			P	
+					PCS		2/6			P	
+					PCS		5/5			P	
+					PCS		2/6			P	
+					PCS		1/5			P	
+					PCS		2/5			P	
+					PCS		2/6			P	
+					PCS		4/5			P	
+					PCS		3/5			P	
+					PCS		5/5			P	
+					PCS		5/5			C	
+					PCS		3/5			P	
+					PCS		2/5			P	
+					PCS		2/5			P	
+					PCS					I	
+					PCS					P	
+					PCS		1/1			P	
+					PCS					P	
+					IEA					P	
+					IEA					C	
+					IEA		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		2/4			P	
+					PCS		1/1			P	
+					PCS		5/5			P	
+					PCS		4/4			C	
+					PCS		1/1			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		4/4			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		4/4			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		12/22			P	
+					IEA		10/22			P	
+					PCS		17/22			P	
+					IEA					P	
+					TAS					P	
+					PCS		9/22			P	
+					IEA					P	
+					PCS		20/22			P	
+					PCS		21/30			P	
+					PCS		16/22			P	
+					PCS		22/22			P	
+					IEA					P	
+					PCS		14/22			P	
+					PCS		4/22			P	
+					PCS		22/22			P	
+					PCS		4/22			P	
+					PCS		1/21			P	
+					PCS		9/22			P	
+					PCS		18/22			P	
+					TAS					P	
+					PCS		9/22			P	
+					IEA					P	
+					TAS				HP:0012825	P	
+					PCS		5/22			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS		15/22			P	
+					PCS		4/8			P	
+					PCS					P	
+					PCS		7/22			P	
+					PCS		1/22			P	
+					PCS		4/14			P	
+					PCS		14/22			P	
+					PCS					I	
+					PCS		1/12	MALE		P	
+					PCS		12/20			P	
+					PCS		22/22			P	
+					PCS					C	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					TAS					P	
+					PCS		1/1			P	
+					PCS		0/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					C	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS	HP:0011463	2/2			P	
+					PCS		2/2			P	
+					IEA					P	
+					PCS		0/2			P	
+					PCS		2/2			C	
+					IEA					P	
+					IEA					I	
+					PCS	HP:0003581	2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		5/5			P	
+					PCS		2/2			P	
+					PCS		3/3			P	
+					PCS		2/2			P	
+					PCS		12/12			P	
+					TAS		2/2			P	
+					TAS		2/2			P	
+					PCS					I	
+					TAS					P	
+					PCS		0/15			P	
+					TAS					P	
+					TAS				HP:0012826	P	
+					PCS		15/15			P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					TAS					P	
+					PCS					I	
+					TAS					P	
+					TAS					P	
+					PCS		3/4			P	
+					IEA					P	
+					PCS		4/4			C	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					IEA					P	
+					PCS		4/4			P	
+					PCS		2/4			C	
+					PCS		4/4			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/4			C	
+					TAS					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/4			P	
+					PCS		4/4			P	
+					PCS					P	
+					PCS		1/1			P	
+					PCS					P	
+					PCS					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					PCS		2/10			P	
+					PCS		1/10			P	
+					PCS		4/10			P	
+					PCS		2/9			P	
+					PCS		3/10			P	
+					PCS		1/7			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		9/9			P	
+					PCS		6/10			P	
+					PCS		7/10			P	
+					PCS		1/8			P	
+					PCS		1/7			P	
+					PCS		5/10			P	
+					PCS		9/10			P	
+					PCS					P	
+					PCS		2/10			P	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS					I	
+					PCS		1/10			P	
+					PCS		1/9			P	
+					PCS		7/10			P	
+					PCS		2/8			P	
+					PCS		1/8			P	
+					PCS		10/10			C	
+					PCS		2/9			P	
+					PCS		10/10			P	
+					PCS		2/10			P	
+					PCS		1/10			P	
+					PCS		1/10			P	
+					PCS		10/10			P	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS		1/9			P	
+					PCS		1/7			P	
+					PCS		5/10			P	
+					PCS		8/10			P	
+					PCS		1/7			P	
+					PCS		1/10			P	
+					PCS		10/10			P	
+					PCS		1/7			P	
+					PCS		8/10			P	
+					PCS		1/8			P	
+					PCS		1/7			P	
+					PCS		1/7			P	
+					PCS		6/10			P	
+					PCS		1/7			P	
+					PCS		4/10			P	
+					PCS		1/9			P	
+					PCS		1/7			P	
+					PCS					P	
+					PCS		1/10			P	
+					PCS		1/5	MALE		P	
+					PCS		1/7			P	
+					PCS					P	
+					PCS		3/3			P	
+					PCS					I	
+					PCS		3/3			P	
+					PCS		3/3			P	
+					PCS					P	
+					PCS					P	
+					PCS		7/9			P	
+					IEA		2/9			C	
+					PCS		9/9			P	
+					IEA					P	
+					IEA					P	
+					PCS		7/9			C	
+					PCS					P	
+					IEA					P	
+					PCS					I	
+					PCS		9/9			P	
+					PCS					C	
+					TAS				HP:0012827	P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					TAS					P	
+					PCS					P	
+					PCS	HP:0003584				P	
+					IEA					P	
+					PCS					P	
+					PCS					P	
+					PCS					I	
+					PCS		1/1			C	
+					PCS					P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					PCS					P	
+					PCS		1/2			P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS	HP:0011461	1/1			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					C	
+					PCS		1/2			P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		2/3			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/2			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA	HP:0003623	1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			C	
+					TAS					P	
+					IEA					P	
+					PCS		1/3			P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			C	
+					PCS		2/3			P	
+					IEA					P	
+					TAS		3/3			P	
+					PCS		1/3			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS					I	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		1/2			P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		1/2			P	
+					TAS					P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					PCS		2/2			P	
+					TAS		HP:0040282			P	
+					PCS		1/2			P	
+					TAS					P	
+					IEA		HP:0040284			P	
+					IEA					P	
+					PCS		1/2			C	
+					PCS		1/2			P	
+					IEA					P	
+					PCS		1/2			P	
+					TAS					P	
+					IEA					P	
+					IEA		20/20			P	
+					PCS		1/2			P	
+					IEA					P	
+					PCS		2/2			P	
+					PCS					I	
+					IEA					P	
+					PCS		2/2			P	
+					IEA					P	
+					TAS					P	
+					TAS					P	
+					PCS		13/13			P	
+					PCS		13/13			C	
+					PCS					I	
+					PCS		0/13			P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					IEA		2/2			P	
+					PCS		2/2			C	
+					PCS					I	
+					PCS		1/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		1/1			P	
+					PCS		0/6			P	
+					PCS		6/6			P	
+					PCS					I	
+					PCS		6/6			P	
+					PCS		4/5			P	
+					PCS		1/6			P	
+					PCS		1/6			P	
+					PCS		4/6			P	
+					PCS		HP:0040282			P	
+					PCS		3/6			P	
+					PCS		4/6			P	
+					PCS		HP:0040282			P	
+					PCS		2/6			P	
+					PCS		6/6			P	
+					PCS		2/6			P	
+					PCS		3/5			P	
+					PCS		HP:0040282			P	
+					PCS		5/6			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS					I	
+					PCS		1/2			C	
+					PCS		1/2			C	
+					PCS					I	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		5/5			P	
+					IEA					P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					I	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS		0/2			P	
+					PCS		2/2			P	
+					PCS		1/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			P	
+					PCS		2/2			C	
+					PCS		2/2			P	
+					PCS		0/2			P	
+					PCS		0/2			P	
+					PCS					I	
+					PCS		0/2			P	
+					PCS		2/24			C	
+					PCS		3/24			C	
+					PCS					P	
+					PCS		4/4			P	
+					PCS		15/16			P	
+					PCS					P	
+					PCS					P	
+					PCS		17/19			P	
+					PCS		11/16			P	
+					PCS		2/4			P	
+					PCS		19/24			C	
+					PCS					I	
+					PCS					P	
+					PCS		0/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS		0/1			P	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		0/1			P	
+					PCS	HP:0011462	1/1			P	
+					TAS					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					IEA					P	
+					PCS	HP:0011462	1/1			P	
+					IEA					P	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					IEA					P	
+					IEA					P	
+					TAS					P	
+					PCS		1/1			P	
+					IEA					P	
+					PCS					I	
+					IEA					C	
+					IEA					P	
+					IEA					P	
+					PCS		11/11			P	
+					PCS		1/11			P	
+					PCS		10/11			P	
+					PCS		5/11			C	
+					PCS		1/11			C	
+					PCS		5/11			C	
+					PCS		4/11			P	
+					PCS		8/11			P	
+					PCS					I	
+					PCS					C	
+					PCS					P	
+					PCS		1/1			P	
+					PCS		1/1			C	
+					PCS		1/1			P	
+					PCS					I	
+					PCS		1/1			P	
+					PCS		1/1			P	
+					PCS					P	
+					PCS					I	
